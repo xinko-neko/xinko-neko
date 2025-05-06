@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Windows%20Server-2025-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
 [![](https://img.shields.io/badge/REDMI-Note%2014%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
-[![](https://img.shields.io/badge/IDE-Android%20Studio%20Code-green?style=flat-square&logo=Android-studio-code&logoColor=ffffff)](https://developer.android.google.cn/studio/)
+[![](https://img.shields.io/badge/IDE-Android%20Studio-green?style=flat-square&logo=Android-studio&logoColor=ffffff)](https://developer.android.google.cn/studio/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
