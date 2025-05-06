@@ -1,4 +1,4 @@
-<img src="https://api.moedog.org/count/@github.readme?theme=moebooru">
+<img src="https://api.moedog.org/count/@github.readme?theme=asoul">
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
