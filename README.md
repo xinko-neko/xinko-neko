@@ -1,7 +1,7 @@
 <img src="https://api.moedog.org/count/@github.readme?theme=moebooru">
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Windows%20Server-2025-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
 [![](https://img.shields.io/badge/Mi-Turbo%204%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
@@ -23,9 +23,6 @@
 
 #### Github Stats
 [![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=xinko-neko&show_icons=true&line_height=20&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Top Langs
-[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=xinko-neko&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📊 每周工作报告
 ```text
