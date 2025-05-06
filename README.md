@@ -18,6 +18,7 @@
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Microsoft%20IIS-00a8e8?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.iis.net/)
 [![](https://img.shields.io/badge/-Lua-4479a1?style=flat-square&logo=Lua&logoColor=white)](https://www.lua.org/)
+[![](https://img.shields.io/badge/-Java-4479a1?style=flat-square&logo=java&logoColor=ffffff)](https://java.com)
 
 #### ⬇️点击下方图片留言⬇️
 [![Comments](https://api.moedog.org/room/@xinko-neko.github/svg?width=600&height=160&limit=20&theme=light&title=xinko-neko@github:%20~&fontSize=13)](https://api.moedog.org/room/@xinko-neko.github?title=%E7%8B%97%E5%AD%90%E7%9A%84%20Github%20%E7%95%99%E8%A8%80%E6%9D%BF)
