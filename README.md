@@ -3,7 +3,7 @@
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Windows%20Server-2025-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
-[![](https://img.shields.io/badge/Mi-Turbo%204%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/REDMI%20Mi-Note%2014%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
