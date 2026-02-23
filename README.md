@@ -2,12 +2,12 @@
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Android-15-green?style=flat-square&logo=Android&logoColor=ffffff)](https://developer.android.google.cn/about/versions/15/get)
-[![](https://img.shields.io/badge/Windows-11-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/Windows-11%20Pro-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/REDMI-Note%2014%20Pro%205G-red?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 [![](https://img.shields.io/badge/vivo-X60-blue?style=flat-square&logo=vivo&logoColor=ffffff)](https://www.vivo.com/)
 
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio-Purple?style=flat-square&logo=Visual-Studio-Community-2026&logoColor=ffffff)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-Purple?style=flat-square&logo=Visual%20Studio%20Community&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
