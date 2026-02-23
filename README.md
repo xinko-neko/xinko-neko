@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/Android-15-green?style=flat-square&logo=Android&logoColor=ffffff)](https://developer.android.google.cn/about/versions/15/get)
 [![](https://img.shields.io/badge/Windows-11-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/REDMI-Note%2014%20Pro%205G-red?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/vivo-X60-blue?style=flat-square&logo=vivo&logoColor=ffffff)](https://www.vivo.com/)
+
 
 [![](https://img.shields.io/badge/IDE-Android%20Studio-green?style=flat-square&logo=Android-studio&logoColor=ffffff)](https://developer.android.google.cn/studio/)
 
